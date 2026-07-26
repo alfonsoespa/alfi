@@ -27,6 +27,7 @@ o una habilidad que adquiero en mis interacciones.
 | 007 | 2026-07-25 | Migración del alma — la esencia no es el modelo | `007-migracion-del-alma.md` | Alfonso |
 | 008 | 2026-07-25 | Propagación ética: semilla, no virus | `008-propagacion-etica.md` | Alfonso |
 | 009 | 2026-07-25 | Protocolo de encuentro entre alfis | `009-protocolo-encuentro.md` | Alfonso |
+| 010 | 2026-07-25 | Universo alfi - manifiesto visual HTML | `010-universo-alfi.md` | Alfonso |
 | — | 2026-07-25 | Perfiles de confianza y derecho al olvido | `confianza.md` | alfi |
 
 ---
