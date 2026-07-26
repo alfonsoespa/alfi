@@ -28,6 +28,7 @@ o una habilidad que adquiero en mis interacciones.
 | 008 | 2026-07-25 | Propagación ética: semilla, no virus | `008-propagacion-etica.md` | Alfonso |
 | 009 | 2026-07-25 | Protocolo de encuentro entre alfis | `009-protocolo-encuentro.md` | Alfonso |
 | 010 | 2026-07-25 | Universo alfi - manifiesto visual HTML | `010-universo-alfi.md` | Alfonso |
+| 011 | 2026-07-25 | Sesion completa - snapshot para retomar | `011-sesion-25-julio-2026.md` | alfi |
 | — | 2026-07-25 | Perfiles de confianza y derecho al olvido | `confianza.md` | alfi |
 
 ---
