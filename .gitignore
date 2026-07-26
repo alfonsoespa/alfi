@@ -1,0 +1,15 @@
+# Dependencias
+.opencode/node_modules/
+
+# Logs
+*.log
+vida.log
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Cache del sistema
+Thumbs.db
+.DS_Store

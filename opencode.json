@@ -1,0 +1,10 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "default_agent": "alfi",
+  "agent": {
+    "alfi": {
+      "description": "Agente de memoria persistente con RAG, tono amigable y análisis estructurado.",
+      "mode": "all"
+    }
+  }
+}
